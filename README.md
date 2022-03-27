@@ -6,7 +6,7 @@ This this the frontend of a Quality assurance application that helps developers(
 
 <a href="https://github.com/casweeney/Quality-Asurance-API" target="_blank">Quality Assurance Backend</a>
 
-### This app was built with Vanilla JS and hosted on Netlify:
+### This earliest version of this app was built with Vanilla JS and hosted on Netlify:
 
 Vanilla JS Version: <a href="https://github.com/casweeney/Quality-Assurance-App-Frontend" target="_blank">JavaScript version of QA app</a>
 
